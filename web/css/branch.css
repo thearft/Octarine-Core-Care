@@ -1,0 +1,29 @@
+.navigation-bar {
+    background-color: #495F75; /* change to desired color */
+}
+.navbar-brand {
+    width:150px;
+    font-size: 24px;
+}
+.navbar-brand img {
+    height: 40px;
+    /* put value of image height as your need */
+    float: left;
+    margin-right: 7px;
+}
+body {
+    background: #2f3542;
+    background-size: cover;
+    color: #7DF9FF;
+}
+.col{
+    padding: 30px 30px 30px 90px;
+    background: #f8f8f8;
+    color: #333;
+    overflow: hidden;
+    position: relative;
+    color: #7DF9FF;
+}
+p.big {
+  line-height: 1.8;
+}
